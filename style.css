@@ -31,7 +31,7 @@ section{
 }
 hr{
     border: 1px solid #D1D1D1;
-    margin: 30px 0;
+    margin-top: 30px;
 }
 /* Utility End */
 
@@ -103,6 +103,9 @@ hr{
 
 
 /* Top Blogs Section Start */
+.top-blogs-section{
+    padding-top: 0;
+}
 
 .blog-thumbnail img{
     width: 177px;
